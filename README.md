@@ -4,14 +4,10 @@
 
 <https://notes.lfxr.dev>
 
-<<<<<<< HEAD
 ## 技術スタック
 
 - [Quartz v4](https://github.com/jackyzha0/quartz)
 - [Cloudflare Pages](https://pages.cloudflare.com/)
-=======
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
->>>>>>> upstream/v4
 
 ## 依存関係のライセンス
 
